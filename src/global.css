@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+:root {
+    --corPrincipal: #ffacea;
+    --corSecundaria:#d48cf5;
+    --corAbaixo: blue;
+    --corBoa: green;
+    --corAcima: red;
+    
+}

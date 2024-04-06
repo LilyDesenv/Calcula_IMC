@@ -1,0 +1,44 @@
+.titulo{
+    background-color: var(--corPrincipal);
+    padding: 20px;
+}
+
+.formulario{
+    background-color: var(--corPrincipal);
+    padding: 20px;
+}
+
+.input{
+    margin-right: 15px;
+    padding: 5px;
+    border: none;
+    border-bottom: 3px solid var(--corSecundaria);
+    background-color: transparent;
+
+}
+
+.input:focus{
+    outline: none;
+}
+
+.resultado{
+    background-color: var(--corSecundaria);
+    padding: 20px;
+}
+
+.resultado p{
+    margin-top: 8px;
+    font-size: 18px;
+}
+
+.resultadoAbaixo{
+    color: var(--corAbaixo);
+}
+
+.resultadoOk{
+    color: var(--corBoa)
+}
+
+.resultadoAcima{
+    color: var(--corAcima)
+}
